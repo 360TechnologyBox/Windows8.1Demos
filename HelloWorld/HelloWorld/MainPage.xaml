@@ -1,0 +1,16 @@
+﻿<Page
+    x:Class="HelloWorld.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:HelloWorld"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBlock x:Name="txtBlkXamlProps" HorizontalAlignment="Left" Margin="85,60,0,0" TextWrapping="Wrap" Text="Hello World  from XAML Properties " VerticalAlignment="Top" Width="797" Height="84" FontSize="48"/>
+        <TextBlock x:Name="txtBlkXamlCode" HorizontalAlignment="Left" Margin="85,149,0,0" TextWrapping="Wrap" Text="Hello World  from XAML Code " VerticalAlignment="Top" Width="797" Height="84" FontSize="48"/>
+        <TextBlock x:Name="txtBlkCode" HorizontalAlignment="Left" Height="76" Margin="85,252,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Width="746" FontSize="48"/>
+
+    </Grid>
+</Page>

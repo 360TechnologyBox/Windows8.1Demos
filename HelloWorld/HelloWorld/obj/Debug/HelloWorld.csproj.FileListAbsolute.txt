@@ -1,0 +1,93 @@
+E:\Users\360tb\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\App.xbf
+E:\Users\360tb\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\MainPage.xbf
+E:\Users\360tb\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+E:\Users\360tb\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+E:\Users\360tb\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\resources.pri
+E:\Users\360tb\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\AppxManifest.xml
+E:\Users\360tb\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.build.appxrecipe
+E:\Users\360tb\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\App.g.i.cs
+E:\Users\360tb\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\App.g.cs
+E:\Users\360tb\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\MainPage.g.i.cs
+E:\Users\360tb\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\MainPage.g.cs
+E:\Users\360tb\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\XamlTypeInfo.g.cs
+E:\Users\360tb\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\App.xaml
+E:\Users\360tb\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\App.xbf
+E:\Users\360tb\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\XamlSaveStateFile.xml
+E:\Users\360tb\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\MainPage.xaml
+E:\Users\360tb\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\MainPage.xbf
+E:\Users\360tb\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+E:\Users\360tb\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+E:\Users\360tb\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\priconfig.xml
+E:\Users\360tb\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\priconfig.xml.intermediate
+E:\Users\360tb\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\layout.resfiles
+E:\Users\360tb\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\layout.resfiles.intermediate
+E:\Users\360tb\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\resources.resfiles
+E:\Users\360tb\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\resources.resfiles.intermediate
+E:\Users\360tb\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\pri.resfiles
+E:\Users\360tb\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\pri.resfiles.intermediate
+E:\Users\360tb\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\qualifiers.txt
+E:\Users\360tb\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\qualifiers.txt.intermediate
+E:\Users\360tb\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\Users\360tb\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\ProjectArchitectures.txt
+N:\360 Tech Box\Tutorials\360tb\HelloWorld\HelloWorld\HelloWorld\bin\Debug\App.xbf
+N:\360 Tech Box\Tutorials\360tb\HelloWorld\HelloWorld\HelloWorld\bin\Debug\MainPage.xbf
+N:\360 Tech Box\Tutorials\360tb\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+N:\360 Tech Box\Tutorials\360tb\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+N:\360 Tech Box\Tutorials\360tb\HelloWorld\HelloWorld\HelloWorld\bin\Debug\resources.pri
+N:\360 Tech Box\Tutorials\360tb\HelloWorld\HelloWorld\HelloWorld\bin\Debug\AppxManifest.xml
+N:\360 Tech Box\Tutorials\360tb\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.build.appxrecipe
+N:\360 Tech Box\Tutorials\360tb\HelloWorld\HelloWorld\HelloWorld\obj\Debug\App.g.i.cs
+N:\360 Tech Box\Tutorials\360tb\HelloWorld\HelloWorld\HelloWorld\obj\Debug\App.g.cs
+N:\360 Tech Box\Tutorials\360tb\HelloWorld\HelloWorld\HelloWorld\obj\Debug\MainPage.g.i.cs
+N:\360 Tech Box\Tutorials\360tb\HelloWorld\HelloWorld\HelloWorld\obj\Debug\MainPage.g.cs
+N:\360 Tech Box\Tutorials\360tb\HelloWorld\HelloWorld\HelloWorld\obj\Debug\XamlTypeInfo.g.cs
+N:\360 Tech Box\Tutorials\360tb\HelloWorld\HelloWorld\HelloWorld\obj\Debug\App.xaml
+N:\360 Tech Box\Tutorials\360tb\HelloWorld\HelloWorld\HelloWorld\obj\Debug\App.xbf
+N:\360 Tech Box\Tutorials\360tb\HelloWorld\HelloWorld\HelloWorld\obj\Debug\XamlSaveStateFile.xml
+N:\360 Tech Box\Tutorials\360tb\HelloWorld\HelloWorld\HelloWorld\obj\Debug\MainPage.xaml
+N:\360 Tech Box\Tutorials\360tb\HelloWorld\HelloWorld\HelloWorld\obj\Debug\MainPage.xbf
+N:\360 Tech Box\Tutorials\360tb\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+N:\360 Tech Box\Tutorials\360tb\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+N:\360 Tech Box\Tutorials\360tb\HelloWorld\HelloWorld\HelloWorld\obj\Debug\priconfig.xml
+N:\360 Tech Box\Tutorials\360tb\HelloWorld\HelloWorld\HelloWorld\obj\Debug\priconfig.xml.intermediate
+N:\360 Tech Box\Tutorials\360tb\HelloWorld\HelloWorld\HelloWorld\obj\Debug\layout.resfiles
+N:\360 Tech Box\Tutorials\360tb\HelloWorld\HelloWorld\HelloWorld\obj\Debug\layout.resfiles.intermediate
+N:\360 Tech Box\Tutorials\360tb\HelloWorld\HelloWorld\HelloWorld\obj\Debug\resources.resfiles
+N:\360 Tech Box\Tutorials\360tb\HelloWorld\HelloWorld\HelloWorld\obj\Debug\resources.resfiles.intermediate
+N:\360 Tech Box\Tutorials\360tb\HelloWorld\HelloWorld\HelloWorld\obj\Debug\pri.resfiles
+N:\360 Tech Box\Tutorials\360tb\HelloWorld\HelloWorld\HelloWorld\obj\Debug\pri.resfiles.intermediate
+N:\360 Tech Box\Tutorials\360tb\HelloWorld\HelloWorld\HelloWorld\obj\Debug\qualifiers.txt
+N:\360 Tech Box\Tutorials\360tb\HelloWorld\HelloWorld\HelloWorld\obj\Debug\qualifiers.txt.intermediate
+N:\360 Tech Box\Tutorials\360tb\HelloWorld\HelloWorld\HelloWorld\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+N:\360 Tech Box\Tutorials\360tb\HelloWorld\HelloWorld\HelloWorld\obj\Debug\ProjectArchitectures.txt
+D:\360tb\HelloWorld\HelloWorld\HelloWorld\bin\Debug\App.xbf
+D:\360tb\HelloWorld\HelloWorld\HelloWorld\bin\Debug\MainPage.xbf
+D:\360tb\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+D:\360tb\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\360tb\HelloWorld\HelloWorld\HelloWorld\bin\Debug\resources.pri
+D:\360tb\HelloWorld\HelloWorld\HelloWorld\bin\Debug\AppxManifest.xml
+D:\360tb\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.build.appxrecipe
+D:\360tb\HelloWorld\HelloWorld\HelloWorld\obj\Debug\App.g.i.cs
+D:\360tb\HelloWorld\HelloWorld\HelloWorld\obj\Debug\App.g.cs
+D:\360tb\HelloWorld\HelloWorld\HelloWorld\obj\Debug\MainPage.g.i.cs
+D:\360tb\HelloWorld\HelloWorld\HelloWorld\obj\Debug\MainPage.g.cs
+D:\360tb\HelloWorld\HelloWorld\HelloWorld\obj\Debug\XamlTypeInfo.g.cs
+D:\360tb\HelloWorld\HelloWorld\HelloWorld\obj\Debug\App.xaml
+D:\360tb\HelloWorld\HelloWorld\HelloWorld\obj\Debug\MainPage.xaml
+D:\360tb\HelloWorld\HelloWorld\HelloWorld\obj\Debug\App.xbf
+D:\360tb\HelloWorld\HelloWorld\HelloWorld\obj\Debug\MainPage.xbf
+D:\360tb\HelloWorld\HelloWorld\HelloWorld\obj\Debug\XamlSaveStateFile.xml
+D:\360tb\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\360tb\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+D:\360tb\HelloWorld\HelloWorld\HelloWorld\obj\Debug\priconfig.xml
+D:\360tb\HelloWorld\HelloWorld\HelloWorld\obj\Debug\priconfig.xml.intermediate
+D:\360tb\HelloWorld\HelloWorld\HelloWorld\obj\Debug\layout.resfiles
+D:\360tb\HelloWorld\HelloWorld\HelloWorld\obj\Debug\layout.resfiles.intermediate
+D:\360tb\HelloWorld\HelloWorld\HelloWorld\obj\Debug\resources.resfiles
+D:\360tb\HelloWorld\HelloWorld\HelloWorld\obj\Debug\resources.resfiles.intermediate
+D:\360tb\HelloWorld\HelloWorld\HelloWorld\obj\Debug\pri.resfiles
+D:\360tb\HelloWorld\HelloWorld\HelloWorld\obj\Debug\pri.resfiles.intermediate
+D:\360tb\HelloWorld\HelloWorld\HelloWorld\obj\Debug\qualifiers.txt
+D:\360tb\HelloWorld\HelloWorld\HelloWorld\obj\Debug\qualifiers.txt.intermediate
+D:\360tb\HelloWorld\HelloWorld\HelloWorld\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\360tb\HelloWorld\HelloWorld\HelloWorld\obj\Debug\ProjectArchitectures.txt
