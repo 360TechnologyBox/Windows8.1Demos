@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>VISHNUBHARATHI</Machine>
+    <WindowsUser>360tb</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>bb216f9f-3d0a-4c13-9187-886894238bfa</PackageIdentityName>
+    <RegisteredManifestChecksum>6C437F782574ED775CFC2027E979560B0D0B23D65F40397A09501D9489232DA8</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>bb216f9f-3d0a-4c13-9187-886894238bfa_1.0.0.0_neutral__1rb577qetvfka</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>bb216f9f-3d0a-4c13-9187-886894238bfa_1rb577qetvfka!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>bb216f9f-3d0a-4c13-9187-886894238bfa</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=360tb</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="e:\users\360tb\documents\visual studio 2013\Projects\ListBoxControl\ListBoxControl\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-17T14:29:22.527</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="e:\users\360tb\documents\visual studio 2013\Projects\ListBoxControl\ListBoxControl\bin\Debug\ListBoxControl.exe">
+      <PackagePath>ListBoxControl.exe</PackagePath>
+      <Modified>2014-03-17T14:39:14.827</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\360tb\documents\visual studio 2013\Projects\ListBoxControl\ListBoxControl\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T02:31:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\360tb\documents\visual studio 2013\Projects\ListBoxControl\ListBoxControl\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T02:31:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\360tb\documents\visual studio 2013\Projects\ListBoxControl\ListBoxControl\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T02:31:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\360tb\documents\visual studio 2013\Projects\ListBoxControl\ListBoxControl\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T02:31:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\360tb\documents\visual studio 2013\Projects\ListBoxControl\ListBoxControl\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-03-17T14:29:21.647</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\360tb\documents\visual studio 2013\Projects\ListBoxControl\ListBoxControl\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-03-17T14:38:15.382</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\360tb\documents\visual studio 2013\Projects\ListBoxControl\ListBoxControl\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-03-17T14:29:22.007</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
