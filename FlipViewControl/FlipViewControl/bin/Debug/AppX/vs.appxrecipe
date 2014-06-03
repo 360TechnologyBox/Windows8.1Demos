@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>VISHNUBHARATHI</Machine>
+    <WindowsUser>360tb</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>1c9be140-2d3d-44cc-8455-9311e7ef30aa</PackageIdentityName>
+    <RegisteredManifestChecksum>17BA61E846ECE2C1289239C4EB4B891127525653C14C8E3E1A167107E18215C6</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>1c9be140-2d3d-44cc-8455-9311e7ef30aa_1.0.0.0_neutral__1rb577qetvfka</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>1c9be140-2d3d-44cc-8455-9311e7ef30aa_1rb577qetvfka!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>1c9be140-2d3d-44cc-8455-9311e7ef30aa</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=360tb</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="e:\users\360tb\documents\visual studio 2013\Projects\FlipViewControl\FlipViewControl\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-04-24T10:56:18.872</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="e:\users\360tb\documents\visual studio 2013\Projects\FlipViewControl\FlipViewControl\bin\Debug\FlipViewControl.exe">
+      <PackagePath>FlipViewControl.exe</PackagePath>
+      <Modified>2014-04-24T10:56:18.558</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\360tb\documents\visual studio 2013\Projects\FlipViewControl\FlipViewControl\Assets\a.jpg">
+      <PackagePath>Assets\a.jpg</PackagePath>
+      <Modified>2014-04-24T10:50:52.231</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\360tb\documents\visual studio 2013\Projects\FlipViewControl\FlipViewControl\Assets\c.jpg">
+      <PackagePath>Assets\c.jpg</PackagePath>
+      <Modified>2014-04-24T10:53:26.374</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\360tb\documents\visual studio 2013\Projects\FlipViewControl\FlipViewControl\Assets\b.jpg">
+      <PackagePath>Assets\b.jpg</PackagePath>
+      <Modified>2014-04-24T10:50:52.195</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\360tb\documents\visual studio 2013\Projects\FlipViewControl\FlipViewControl\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T02:31:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\360tb\documents\visual studio 2013\Projects\FlipViewControl\FlipViewControl\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T02:31:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\360tb\documents\visual studio 2013\Projects\FlipViewControl\FlipViewControl\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T02:31:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\360tb\documents\visual studio 2013\Projects\FlipViewControl\FlipViewControl\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T02:31:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\360tb\documents\visual studio 2013\Projects\FlipViewControl\FlipViewControl\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-04-24T10:56:18.375</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\360tb\documents\visual studio 2013\Projects\FlipViewControl\FlipViewControl\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-04-24T10:56:18.378</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\360tb\documents\visual studio 2013\Projects\FlipViewControl\FlipViewControl\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-04-24T10:56:18.701</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
