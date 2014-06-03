@@ -1,0 +1,16 @@
+﻿<Page
+    x:Class="SliderControl.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SliderControl"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Slider x:ConnectionId='1' x:Name="sldMySlider" HorizontalAlignment="Left" Height="74" Margin="247,203,0,0" VerticalAlignment="Top" Width="839"                                         Maximum="1000"/>
+        <TextBlock x:Name="txtSliderValue" HorizontalAlignment="Left" Height="104" Margin="343,380,0,0" TextWrapping="Wrap" Text="Slider Value" VerticalAlignment="Top" Width="591" FontSize="40"/>
+
+    </Grid>
+</Page>
+
