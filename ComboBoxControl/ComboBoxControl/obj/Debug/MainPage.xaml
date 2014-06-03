@@ -1,0 +1,17 @@
+﻿<Page
+    x:Class="ComboBoxControl.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ComboBoxControl"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <ComboBox x:ConnectionId='1' x:Name="cmbBoxMyBox" HorizontalAlignment="Left" Margin="363,188,0,0" VerticalAlignment="Top" Width="550" Height="78"                                                />
+        <TextBlock x:Name="txtBlkSelectedValue" HorizontalAlignment="Left" Height="96" Margin="189,371,0,0" TextWrapping="Wrap" Text="Selected Value " VerticalAlignment="Top" Width="395" FontSize="40"/>
+        <TextBlock x:Name="txtBlkSelectedIndex" HorizontalAlignment="Left" Height="96" Margin="733,371,0,0" TextWrapping="Wrap" Text="Selected Index" VerticalAlignment="Top" Width="395" FontSize="40"/>
+
+    </Grid>
+</Page>
+
