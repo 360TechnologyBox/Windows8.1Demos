@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>VISHNUBHARATHI</Machine>
+    <WindowsUser>360tb</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>90f8eef5-d7f1-472e-8757-d94502d787db</PackageIdentityName>
+    <RegisteredManifestChecksum>506696B86E7DCF791F581C26B81E52BF06984CDC67112F0C95EA03CC224C76E8</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>90f8eef5-d7f1-472e-8757-d94502d787db_1.0.0.0_neutral__1rb577qetvfka</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>90f8eef5-d7f1-472e-8757-d94502d787db_1rb577qetvfka!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>90f8eef5-d7f1-472e-8757-d94502d787db</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=360tb</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="e:\users\360tb\documents\visual studio 2013\Projects\ButtonControl\ButtonControl\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-15T10:01:48.928</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="e:\users\360tb\documents\visual studio 2013\Projects\ButtonControl\ButtonControl\bin\Debug\ButtonControl.exe">
+      <PackagePath>ButtonControl.exe</PackagePath>
+      <Modified>2014-03-15T10:01:48.475</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\360tb\documents\visual studio 2013\Projects\ButtonControl\ButtonControl\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T02:31:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\360tb\documents\visual studio 2013\Projects\ButtonControl\ButtonControl\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T02:31:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\360tb\documents\visual studio 2013\Projects\ButtonControl\ButtonControl\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T02:31:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\360tb\documents\visual studio 2013\Projects\ButtonControl\ButtonControl\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T02:31:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\360tb\documents\visual studio 2013\Projects\ButtonControl\ButtonControl\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-03-15T10:01:48.279</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\360tb\documents\visual studio 2013\Projects\ButtonControl\ButtonControl\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-03-15T10:01:48.281</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\360tb\documents\visual studio 2013\Projects\ButtonControl\ButtonControl\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-03-15T10:01:48.610</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
