@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>VISHNUBHARATHI</Machine>
+    <WindowsUser>360tb</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>9185f754-b0bd-4f92-b152-e4e2f546f45c</PackageIdentityName>
+    <RegisteredManifestChecksum>B3149548104FC9DC998E8E0AE347DFC6801BE1BE2F4512B1311375BA08F8A7C8</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>9185f754-b0bd-4f92-b152-e4e2f546f45c_1.0.0.0_neutral__1rb577qetvfka</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>9185f754-b0bd-4f92-b152-e4e2f546f45c_1rb577qetvfka!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>9185f754-b0bd-4f92-b152-e4e2f546f45c</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=360tb</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="e:\users\360tb\documents\visual studio 2013\Projects\MediaElement\MediaElement\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-04-24T11:31:24.076</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="e:\users\360tb\documents\visual studio 2013\Projects\MediaElement\MediaElement\bin\Debug\MediaElement.exe">
+      <PackagePath>MediaElement.exe</PackagePath>
+      <Modified>2014-04-24T11:34:30.741</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\360tb\documents\visual studio 2013\Projects\MediaElement\MediaElement\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T02:31:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\360tb\documents\visual studio 2013\Projects\MediaElement\MediaElement\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T02:31:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\360tb\documents\visual studio 2013\Projects\MediaElement\MediaElement\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T02:31:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\360tb\documents\visual studio 2013\Projects\MediaElement\MediaElement\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T02:31:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\360tb\documents\visual studio 2013\Projects\MediaElement\MediaElement\Assets\Windows8.mp4">
+      <PackagePath>Assets\Windows8.mp4</PackagePath>
+      <Modified>2014-04-24T11:28:06.307</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\360tb\documents\visual studio 2013\Projects\MediaElement\MediaElement\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-04-24T11:31:23.461</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\360tb\documents\visual studio 2013\Projects\MediaElement\MediaElement\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-04-24T11:34:30.497</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\360tb\documents\visual studio 2013\Projects\MediaElement\MediaElement\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-04-24T11:31:23.810</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

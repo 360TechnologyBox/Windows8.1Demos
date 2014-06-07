@@ -1,0 +1,16 @@
+﻿<Page
+    x:Class="MediaElement.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MediaElement"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <MediaElement x:Name="mdEleMyMedia" HorizontalAlignment="Left" Height="420" Margin="326,224,0,0" VerticalAlignment="Top" Width="716" Source="Assets/Windows8.mp4" AutoPlay="False"/>
+        <Button x:Name="btnPlay" Content="Play" HorizontalAlignment="Left" Height="79" Margin="188,46,0,0" VerticalAlignment="Top" Width="256" FontSize="30" Click="btnPlay_Click"/>
+        <Button x:Name="btnPause" Content="Pause" HorizontalAlignment="Left" Height="79" Margin="910,46,0,0" VerticalAlignment="Top" Width="256" FontSize="30" Click="btnPause_Click"/>
+
+    </Grid>
+</Page>
