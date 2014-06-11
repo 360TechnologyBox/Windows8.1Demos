@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>VISHNUBHARATHI</Machine>
+    <WindowsUser>360tb</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>982425c1-2adc-48cf-9bec-55750ae1831f</PackageIdentityName>
+    <RegisteredManifestChecksum>92B7FFD068A6E852039B70022CB5F6D03CB1D41510879471B1ACD313A650A1B7</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>982425c1-2adc-48cf-9bec-55750ae1831f_1.0.0.0_neutral__1rb577qetvfka</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>982425c1-2adc-48cf-9bec-55750ae1831f_1rb577qetvfka!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>982425c1-2adc-48cf-9bec-55750ae1831f</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=360tb</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="e:\users\360tb\documents\visual studio 2013\Projects\WebViewControl\WebViewControl\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-04-24T09:11:16.882</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="e:\users\360tb\documents\visual studio 2013\Projects\WebViewControl\WebViewControl\bin\Debug\WebViewControl.exe">
+      <PackagePath>WebViewControl.exe</PackagePath>
+      <Modified>2014-04-24T09:25:26.141</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\360tb\documents\visual studio 2013\Projects\WebViewControl\WebViewControl\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T02:31:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\360tb\documents\visual studio 2013\Projects\WebViewControl\WebViewControl\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T02:31:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\360tb\documents\visual studio 2013\Projects\WebViewControl\WebViewControl\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T02:31:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\360tb\documents\visual studio 2013\Projects\WebViewControl\WebViewControl\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T02:31:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\360tb\documents\visual studio 2013\Projects\WebViewControl\WebViewControl\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-04-24T09:11:14.636</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\360tb\documents\visual studio 2013\Projects\WebViewControl\WebViewControl\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-04-24T09:16:16.514</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\360tb\documents\visual studio 2013\Projects\WebViewControl\WebViewControl\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-04-24T09:11:15.572</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
