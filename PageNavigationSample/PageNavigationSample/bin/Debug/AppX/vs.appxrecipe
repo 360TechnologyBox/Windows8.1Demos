@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>VISHNUBHARATHI</Machine>
+    <WindowsUser>Vishnu Bharathi</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>cc7877eb-0291-4cd9-9657-14ef7ad4718a</PackageIdentityName>
+    <RegisteredManifestChecksum>A2E13AB574A08886A7E8CB3FD9122D613286795AC2A999DC899B57AB02254C02</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>cc7877eb-0291-4cd9-9657-14ef7ad4718a_1.0.0.0_neutral__mq7z7y3vz229e</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>cc7877eb-0291-4cd9-9657-14ef7ad4718a_mq7z7y3vz229e!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>cc7877eb-0291-4cd9-9657-14ef7ad4718a</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Vishnu Bharathi</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\Users\Vishnu Bharathi\Desktop\Practice\PageNavigationSample\PageNavigationSample\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-12T19:29:13.805</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\Users\Vishnu Bharathi\Desktop\Practice\PageNavigationSample\PageNavigationSample\bin\Debug\PageNavigationSample.exe">
+      <PackagePath>PageNavigationSample.exe</PackagePath>
+      <Modified>2014-06-12T19:57:05.020</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Vishnu Bharathi\Desktop\Practice\PageNavigationSample\PageNavigationSample\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Vishnu Bharathi\Desktop\Practice\PageNavigationSample\PageNavigationSample\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Vishnu Bharathi\Desktop\Practice\PageNavigationSample\PageNavigationSample\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Vishnu Bharathi\Desktop\Practice\PageNavigationSample\PageNavigationSample\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Vishnu Bharathi\Desktop\Practice\PageNavigationSample\PageNavigationSample\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-06-12T19:29:11.103</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Vishnu Bharathi\Desktop\Practice\PageNavigationSample\PageNavigationSample\bin\Debug\ContentPage.xbf">
+      <PackagePath>ContentPage.xbf</PackagePath>
+      <Modified>2014-06-12T19:39:36.068</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Vishnu Bharathi\Desktop\Practice\PageNavigationSample\PageNavigationSample\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-06-12T19:39:36.071</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\Vishnu Bharathi\Desktop\Practice\PageNavigationSample\PageNavigationSample\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-06-12T19:29:12.536</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
