@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>VISHNUBHARATHI</Machine>
+    <WindowsUser>Vishnu Bharathi</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>e455ca43-1786-4f53-b5b5-0b49356c44e5</PackageIdentityName>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="e:\users\vishnu bharathi\documents\visual studio 2013\Projects\CanvasSample\CanvasSample\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="e:\users\vishnu bharathi\documents\visual studio 2013\Projects\CanvasSample\CanvasSample\bin\Debug\CanvasSample.exe">
+      <PackagePath>CanvasSample.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\vishnu bharathi\documents\visual studio 2013\Projects\CanvasSample\CanvasSample\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\vishnu bharathi\documents\visual studio 2013\Projects\CanvasSample\CanvasSample\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\vishnu bharathi\documents\visual studio 2013\Projects\CanvasSample\CanvasSample\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\vishnu bharathi\documents\visual studio 2013\Projects\CanvasSample\CanvasSample\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\vishnu bharathi\documents\visual studio 2013\Projects\CanvasSample\CanvasSample\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\vishnu bharathi\documents\visual studio 2013\Projects\CanvasSample\CanvasSample\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\vishnu bharathi\documents\visual studio 2013\Projects\CanvasSample\CanvasSample\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

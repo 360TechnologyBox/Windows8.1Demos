@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>VISHNUBHARATHI</Machine>
+    <WindowsUser>Vishnu Bharathi</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>e455ca43-1786-4f53-b5b5-0b49356c44e5</PackageIdentityName>
+    <RegisteredManifestChecksum>A316E05F0C33B473EDC5F286815713B98B6059183233317562BC03661FD6D518</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>e455ca43-1786-4f53-b5b5-0b49356c44e5_1.0.0.0_neutral__mq7z7y3vz229e</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>e455ca43-1786-4f53-b5b5-0b49356c44e5_mq7z7y3vz229e!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>e455ca43-1786-4f53-b5b5-0b49356c44e5</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Vishnu Bharathi</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="e:\users\vishnu bharathi\documents\visual studio 2013\Projects\CanvasSample\CanvasSample\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-16T19:29:56.166</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="e:\users\vishnu bharathi\documents\visual studio 2013\Projects\CanvasSample\CanvasSample\bin\Debug\CanvasSample.exe">
+      <PackagePath>CanvasSample.exe</PackagePath>
+      <Modified>2014-06-16T19:47:08.157</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\vishnu bharathi\documents\visual studio 2013\Projects\CanvasSample\CanvasSample\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\vishnu bharathi\documents\visual studio 2013\Projects\CanvasSample\CanvasSample\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\vishnu bharathi\documents\visual studio 2013\Projects\CanvasSample\CanvasSample\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\vishnu bharathi\documents\visual studio 2013\Projects\CanvasSample\CanvasSample\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\vishnu bharathi\documents\visual studio 2013\Projects\CanvasSample\CanvasSample\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-06-16T19:29:54.166</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\vishnu bharathi\documents\visual studio 2013\Projects\CanvasSample\CanvasSample\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-06-16T19:38:13.452</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\users\vishnu bharathi\documents\visual studio 2013\Projects\CanvasSample\CanvasSample\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-06-16T19:29:55.034</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

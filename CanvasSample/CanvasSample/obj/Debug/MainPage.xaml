@@ -1,0 +1,16 @@
+﻿<Page
+    x:Class="CanvasSample.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:CanvasSample"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Canvas x:ConnectionId='1' x:Name="inkCanvas" HorizontalAlignment="Left" Height="608" Margin="153,51,0,0" VerticalAlignment="Top" Width="1008"                                                                                                                             Background="White"/>
+        <Button x:ConnectionId='2' x:Name="btnClear" Content="Clear Canvas" HorizontalAlignment="Left" Height="65" Margin="199,693,0,0" VerticalAlignment="Top" Width="127"                       />
+
+    </Grid>
+</Page>
+
