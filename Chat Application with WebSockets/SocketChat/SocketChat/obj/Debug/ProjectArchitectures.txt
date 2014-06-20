@@ -1,1 +1,0 @@
-e:\users\vishnu bharathi\documents\visual studio 2013\Projects\SocketChat\SocketChat\SocketChat.csproj;neutral
